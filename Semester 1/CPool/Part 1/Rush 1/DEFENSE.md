@@ -5,7 +5,6 @@
 
 ### Final Result
 - **Final Mark:** **15 / 20**
-- **Style Mark:** style
 
 ### Evaluation Details
 
