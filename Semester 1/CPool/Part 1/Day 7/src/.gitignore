@@ -1,0 +1,29 @@
+# C file
+
+main.c
+
+# Compile file
+
+*.o
+*.sa
+*.so
+*.elf
+*.ko
+*.dll
+
+# Test file
+
+*.gcda
+*.gcno
+
+# Editor file
+
+*.swp
+
+# Unecessary file
+
+*~
+#*#
+
+results/
+lib/my/*.a
