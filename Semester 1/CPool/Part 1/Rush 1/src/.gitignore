@@ -1,0 +1,24 @@
+#C file
+
+main.c
+my_putchar.c
+
+#Compile file
+
+*.o
+*.sa
+*.so
+*.elf
+*.ko
+*.dll
+
+# Editor file
+
+*.swp
+
+#Unecessary file
+
+*~
+#*#
+
+results/
