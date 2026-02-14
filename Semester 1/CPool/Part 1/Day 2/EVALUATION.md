@@ -1,19 +1,19 @@
 ## Project Evaluation Report
 
 ### Project Information
-- **Project Name:** C Pool Day 01
-- 
+- **Project Name:** C Pool Day 02
+
 ### Final Result
 - **Final Mark:** **20 / 20**
 - **Style Mark:** 0
 
 ### Style Issues
-| Type        | Count |
-|-------------|-------|
-| Fatal       | 0     |
-| Major       | 0     |
-| Minor       | 0     |
-| Info        | 0     |
+| Type  | Count |
+|-------|-------|
+| Fatal | 0     |
+| Major | 0     |
+| Minor | 0     |
+| Info  | 0     |
 
 ### Task Results
 
