@@ -1,12 +1,10 @@
-# Project Evaluation Report
+## Project Evaluation Report
 
-## Final Result
+### Final Result
 - **Final Mark:** **20 / 20**
 - **Style Mark:** 0
 
----
-
-## Style Issues
+### Style Issues
 | Type        | Count |
 |-------------|-------|
 | Fatal       | 0     |
@@ -14,9 +12,7 @@
 | Minor       | 0     |
 | Info        | 0     |
 
----
-
-## Task Results
+### Task Results
 
 | Task    | Status | Score |
 |---------|--------|-------|
