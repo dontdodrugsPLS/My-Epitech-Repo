@@ -1,7 +1,7 @@
 ## Defense Evaluation Report
 
-### Project Information
-- **Project Name:** Defense - Rush 1
+### Defense Information
+- **Project Name:** Rush 1
 
 ### Final Result
 - **Final Mark:** **15 / 20**
